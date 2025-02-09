@@ -1,0 +1,6 @@
+Sales Results (computed on 2025-02-09 13:57:04):
+Total Sales Amount: $165235.37
+Execution Time: 0.0 seconds
+Invalid Sales Records:
+  {'SALE_ID': 6, 'SALE_Date': '01/12/23', 'Product': 'Elotes', 'Quantity': 100}
+  {'SALE_ID': 9, 'SALE_Date': '02/12/23', 'Product': 'Frijoles', 'Quantity': 100}
